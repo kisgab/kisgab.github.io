@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ez Andika új webszájtja</title>
-    <link>https://kisgab.github.io/posts/</link>
-    <description>Recent content in Posts on Ez Andika új webszájtja</description>
+    <title>Posts on PETITFOUR</title>
+    <link>https://petitfour.hu/posts/</link>
+    <description>Recent content in Posts on PETITFOUR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Apr 2020 16:20:41 +0200</lastBuildDate>
     
-	<atom:link href="https://kisgab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://petitfour.hu/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://kisgab.github.io/posts/my-first-post/</link>
+      <link>https://petitfour.hu/posts/my-first-post/</link>
       <pubDate>Sun, 19 Apr 2020 16:20:41 +0200</pubDate>
       
-      <guid>https://kisgab.github.io/posts/my-first-post/</guid>
+      <guid>https://petitfour.hu/posts/my-first-post/</guid>
       <description>Sed lobortis dictum congue. Phasellus quis ex congue, tempus enim et, mollis neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur fermentum vestibulum velit, id congue quam hendrerit nec. Aenean sagittis, velit in lobortis gravida, nisi ex lacinia justo, sit amet vehicula lorem nisl non erat. In odio magna, euismod posuere finibus vitae, feugiat sed elit. Cras porta quam ante, vel accumsan elit eleifend sed. Cras molestie lectus turpis, quis maximus sem suscipit vel.</description>
     </item>
     
